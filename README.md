@@ -1,2 +1,2 @@
 # comingSoonSite
-The coming soon site for snokilo.net
+The coming soon site for [snokilo.net](http://www.snokilo.net)
